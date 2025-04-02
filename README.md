@@ -2,4 +2,4 @@
 
 ## Criando o repositório no Git Hub;
 
--- **Criando a Milestone** - _Milestone 1 Fundação_;
+### **Criando a Milestone** - _Milestone 1 Fundação_;
