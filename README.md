@@ -1,4 +1,4 @@
-# {c:blue}Criação do Projeto - Fundação (Clone TabNews) 2025
+# Criação do Projeto - Fundação (Clone TabNews) 2025
 
 ## 1 - Criando o repositório no Git Hub;
 
